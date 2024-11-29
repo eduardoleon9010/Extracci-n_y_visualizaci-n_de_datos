@@ -9,7 +9,7 @@ Te invito a revisar el trabajo sobre **extracción y visualización de datos de 
 
 ## Opciones para acceder al contenido 🖥️📂
 1. **Ver el Notebook directamente en Google Colab:**  
-   👉 [Accede aquí](https://colab.research.google.com/drive/1bJLjGCTddQj6ZvKjhS7WxYlbJOhT1aAS?usp=sharing)) para explorar el proyecto en línea.
+   👉 [Accede aquí](https://colab.research.google.com/drive/1bJLjGCTddQj6ZvKjhS7WxYlbJOhT1aAS?usp=sharing) para explorar el proyecto en línea.
 
 2. **Descargar el código `.ipynb`:**  
    Puedes obtener el archivo desde nuestro repositorio para trabajar localmente.
