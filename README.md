@@ -21,4 +21,4 @@ A través de este proceso, podrás explorar los **precios históricos** de las a
 - **Descargar el código .ipynb**:  
 Puedes obtener el archivo desde nuestro repositorio para trabajar localmente.
 
-## ¡Prepárate para potenciar tus habilidades en ciencia de datos, visualización interactiva y análisis financiero! 🚀
+**¡Prepárate para potenciar tus habilidades en ciencia de datos, visualización interactiva y análisis financiero!** 🚀
